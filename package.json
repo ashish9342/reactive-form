@@ -1,0 +1,39 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React example starter project",
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "check-prop-types": "1.1.2",
+    "enzyme-adapter-react-16": "1.15.5",
+    "prop-types": "15.7.2",
+    "react": "17.0.0",
+    "react-dom": "17.0.0",
+    "react-router": "5.2.0",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "3.4.3"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3",
+    "@testing-library/react": "11.1.0",
+    "babel-plugin-react-remove-properties": "0.3.0",
+    "enzyme": "3.11.0",
+    "enzyme-adapter-react-16": "1.15.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

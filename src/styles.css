@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.accordian {
+  border: 1px solid #ddd;
+}
+.accordian h4 {
+  margin: 0;
+  background: #ccc;
+  padding: 10px 5px;
+  cursor: pointer;
+}
+.accordian div.panel {
+  display: none;
+  padding: 10px 5px;
+}
+input,
+select {
+  margin: 5px 0px;
+}
